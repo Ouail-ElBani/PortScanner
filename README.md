@@ -13,7 +13,7 @@ This is a simple port scanner written in Python that allows you to scan ports on
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/simple-port-scanner.git
+    git clone https://github.com/Ouail-ElBani/simple-port-scanner.git
     cd simple-port-scanner
     ```
 
